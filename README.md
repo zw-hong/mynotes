@@ -1,6 +1,10 @@
 # NMT Paper Reading
 
-2022.6.13 开始🙀
+Start from 2022.6.13 🙀
+
+2022.6.13
+
+Attention Ia All You Need https://arxiv.org/abs/1706.03762 [笔记地址](./note/transformer)
 
 ## Basic knowledge
 
@@ -11,7 +15,7 @@ Neural Machine Translation of Rare Words with Subword Units
 Deep Residual Learning for Image Recognition 
 
 ## Transformer
-Attention Ia All You Need https://arxiv.org/abs/1706.03762
+
 
 Attention Calibration for Transformer in Neural Machine Translation
 
